@@ -1,4 +1,4 @@
-# EFS-LMABDA integration
+# EFS-LAMBDA integration
 
 This project details the EFS-Lambda integration process, made robust by many trial and errors-
 
